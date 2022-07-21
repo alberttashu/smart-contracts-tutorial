@@ -1,0 +1,23 @@
+{
+  "name": "smart-contracts-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alberttashu/smart-contracts-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alberttashu/smart-contracts-tutorial/issues"
+  },
+  "homepage": "https://github.com/alberttashu/smart-contracts-tutorial#readme",
+  "devDependencies": {
+    "hardhat": "^2.10.1"
+  }
+}
